@@ -85,16 +85,21 @@
         <div class="tab-class">
             <ul class="nav nav-pills justify-content-center mb-4">
                 <li class="nav-item">
-                    <a class="nav-link active" data-toggle="pill" href="#class-all">SEMANA 1</a>
+                    <a class="nav-link active" data-toggle="pill" href="#class-all">CATEGORIA MICRO 2014-2015</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" data-toggle="pill" href="#class-cardio">SEMANA 2</a>
+                    <a class="nav-link" data-toggle="pill" href="#class-cardio">CATEGORIA MINI 2012-2013</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" data-toggle="pill" href="#class-crossfit">SEMANA 3</a>
+                    <a class="nav-link" data-toggle="pill" href="#class-crossfit">CATEGORIA PASARELA 2010-2011</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" data-toggle="pill" href="#class-powerlifting">SEMANA 4</a>
+                    <a class="nav-link" data-toggle="pill" href="#class-powerlifting">CATEGORIA CADETE 2009-2008 </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="pill" href="#class">CATEGORIA JUVENIL 2007-2006</a>
+                </li>
+                <li class="nav-item">
                 </li>
             </ul>
             <div class="tab-content">
@@ -116,32 +121,37 @@
                             <tbody class="text-center">
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">8.00 am - 9.00am</th>
-                                    <td><h5>BST</h5>VS<h5>ASTROS</h5></td>
+                                    <td><h5>IBIME</h5>VS<h5>AZTKS V.</h5></td>
                                     <td></td>
-                                    <td><h5>CLUB FAUGET</h5>VS <h5>ALL STARS</h5></td>
+    
+                                    <td><h5>AZTKS.M</h5>VS <h5>KAUYURAMI</h5></td>
                                     <td></td>
-                                    <td><h5>TOURMENT</h5>VS<h5>BBS</h5></td>
+                                    <td><h5>BULLERS</h5>VS<h5>BBS</h5></td>
                                     <td></td>
+                                    <td><h5></h5> </td>
+                                   
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">10.00am - 11.00am</th>
                                     <td></td>
-                                    <td><h5>BST</h5>VS<h5>LOS DRAGONES</h5></td>
+                                    <td><h5>AZTKS.M</h5>VS<h5>KAUYURAMI</h5></td>
                                     <td></td>
                                     <td><h5></h5></td>
-                                    <td><h5>SLAM TRUNK</h5>VS<h5>TRUENO SLAM</h5></td>
+                                    <td><h5>AZTKS.M </h5>VS<h5>BULLERS</h5></td>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
                                     <td><h5></h5></td>
                                     <td></td>
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">1.00pm - 2.00pm</th>
-                                    <td><h5>LOS DRAGONES</h5>VS <h5>TEC COL</h5> </td>
+                                    <td><h5>IBIME</h5>VS <h5>AZTKS.M</h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
-                                    <td><h5>CLUB FAUGET</h5>VS<h5>BBT</h5> </td>
+                                    <td><h5></h5> </td>
+                                    
+                                    
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">3.00pm - 4.00pm</th>
@@ -149,7 +159,7 @@
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
-                                    <td><h5>LOS DRAGONES</h5>VS<h5>BSS</h5></td>
+                                    <td></td>
                                     <td><h5> </h5> </td>
                                     <td></td>
                                 </tr>
@@ -163,44 +173,48 @@
                             <thead class="bg-secondary text-white text-center">
                                 <tr>
                                 <th>HORARIO</th>
-                                    <th>LUNES</th>
-                                    <th>MARTES</th>
-                                    <th>MIERCOLES</th>
-                                    <th>JUEVES</th>
-                                    <th>VIERNES</th>
-                                    <th>SABADO</th>
-                                    <th>DOMINGO</th>
+                                    <th>LUNES (VARONIL)</th>
+                                    <th>MARTES(VARONIL)</th>
+                                    <th>MIERCOLES (VARONIL)</th>
+                                    <th>JUEVES (VARONIL)</th>
+                                    <th>VIERNES (VARONIL)</th>
+                                    <th>SABADO (VARONIL)</th>
+                                    <th>DOMINGO (FEMENIL)</th>
                                 </tr>
                             </thead>
                             <tbody class="text-center">
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">8.00 am - 9.00am</th>
-                                    <td><h5>TOURMENT</h5>VS<h5>ALL STRARS</h5></td>
+                                    <td><h5>IBIME</h5>VS<h5>AZTKS A</h5></td>
+                                    <td></td>                                  
+                                    <td><h5>CLUB FAUGET</h5>VS<h5>AGUILAS EH</h5></td>
                                     <td></td>
-                                    <td><h5>BSS</h5>VS <h5>BST</h5></td>
+                                    <td><h5></h5> </td>
                                     <td></td>
-                                    <td><h5>SLAM TRUNK</h5>VS<h5>ALL STARS</h5></td>
-                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">10.00am - 11.00am</th>
                                     <td></td>
-                                    <td><h5>BBS</h5>VS<h5>LOS DRAGONES</h5></td>
+                                    <td><h5>ASTEKS B</h5>VS<h5>AGUILAS EH</h5></td>
                                     <td></td>
                                     <td><h5></h5></td>
                                     <td><h5>CLUB FAUGET</h5>VS<h5>TRUENO SLAM</h5></td>
                                     <td><h5></h5></td>
                                     <td></td>
+                                    
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">1.00pm - 2.00pm</th>
-                                    <td><h5>LOS DRAGONES</h5>VS <h5>ASTROS</h5> </td>
+                                    <td><h5>IBIME</h5>VS <h5>ASTEKS B</h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
-                                    <td><h5>TEC COL</h5>VS<h5>TRUENO SLAM</h5> </td>
+                                    <td><h5>AZTEKS</h5>VS<h5>KAUYUMARI</h5> </td>
+                                    
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">3.00pm - 4.00pm</th>
@@ -208,9 +222,10 @@
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
-                                    <td><h5>ASTROS</h5>VS<h5>TOURMENT</h5></td>
                                     <td><h5> </h5> </td>
                                     <td></td>
+                                    <td><h5></h5> </td>
+                                    
                                 </tr>
                             </tbody>
                         </table>
@@ -227,8 +242,8 @@
                                     <th>MIERCOLES</th>
                                     <th>JUEVES</th>
                                     <th>VIERNES</th>
-                                    <th>SABADO</th>
-                                    <th>DOMINGO</th>
+                                    <th>SABADO (FEMENIL)</th>
+                                    <th>DOMINGO (FEMENIL)</th>
                                 </tr>
                             </thead>
                             <tbody class="text-center">
@@ -238,28 +253,28 @@
                                     <td></td>
                                     <td><h5></h5><h5></h5></td>
                                     <td></td>
-                                    <td><h5>LOS DRAGONES</h5>VS<h5>ASTROS</h5></td>
+                                    <td><h5>ORLANDO</h5>VS<h5>IBIME AZUL</h5></td>
                                     <td></td>
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">10.00am - 11.00am</th>
                                     <td></td>
-                                    <td><h5>ALL STARS</h5>VS<h5>CLUB FAUGET</h5></td>
+                                    <td><h5>CASA BLANCA</h5>VS<h5>ORLANDO</h5></td>
                                     <td></td>
                                     <td><h5></h5></td>
-                                    <td><h5></h5><h5></h5></td>
-                                    <td><h5></h5></td>
+                                    <td></td>
+                                    <td><h5>IBIME AZUL</h5>VS<h5>KAYUMARI</h5></td>
                                     <td></td>
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">1.00pm - 2.00pm</th>
-                                    <td><h5>LOS DRAGONES</h5>VS <h5>TEC COL</h5> </td>
+                                    <td><h5>CASA BLANCA</h5>VS <h5>IBIME ROJO</h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
-                                    <td><h5>CLUB FAUGET</h5>VS<h5>BBT</h5> </td>
+                                    <td><h5>KAYUMARI</h5>VS<h5>IBIME BLANCO</h5> </td>
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">3.00pm - 4.00pm</th>
@@ -267,7 +282,7 @@
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
-                                    <td><h5>LOS DRAGONES</h5>VS<h5>BSS</h5></td>
+                                    <td></td>
                                     <td><h5> </h5> </td>
                                     <td></td>
                                 </tr>
@@ -275,13 +290,14 @@
                         </table>
                     </div>
                 </div>
+                
                 <div id="class-powerlifting" class="container tab-pane fade p-0">
                     <div class="table-responsive">
                         <table class="table table-bordered table-lg m-0">
                             <thead class="bg-secondary text-white text-center">
                                 <tr>
                                 <th>HORARIO</th>
-                                    <th>LUNES</th>
+                                    <th>LUNES </th>
                                     <th>MARTES</th>
                                     <th>MIERCOLES</th>
                                     <th>JUEVES</th>
@@ -293,32 +309,91 @@
                             <tbody class="text-center">
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">8.00 am - 9.00am</th>
-                                    <td><h5>BST</h5>VS<h5>ASTROS</h5></td>
+                                    <td><h5>IBIME AZUL</h5>VS<h5>AZTKS A</h5></td>
                                     <td></td>
-                                    <td><h5>CLUB FAUGET</h5>VS <h5>ALL STARS</h5></td>
+                                    <td><h5>IBIME BLANCO</h5>VS <h5>AZTKS B</h5></td>
                                     <td></td>
-                                    <td><h5>TOURMENT</h5>VS<h5>BBS</h5></td>
+                                    <td></td>
                                     <td></td>
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">10.00am - 11.00am</th>
                                     <td></td>
-                                    <td><h5>BST</h5>VS<h5>LOS DRAGONES</h5></td>
+                                    <td><h5>IBIME AZUL</h5>VS<h5>AZTKS B</h5></td>
                                     <td></td>
                                     <td><h5></h5></td>
-                                    <td><h5>SLAM TRUNK</h5>VS<h5>TRUENO SLAM</h5></td>
+                                    <td><h5>ZORROS BLANCOS</h5>VS<h5>KAYUMARI</h5></td>
                                     <td><h5></h5></td>
                                     <td></td>
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">1.00pm - 2.00pm</th>
-                                    <td><h5>LOS DRAGONES</h5>VS <h5>TEC COL</h5> </td>
+                                    <td><h5>AZTKS A</h5>VS <h5>IBIME AZUL</h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
                                     <td></td>
-                                    <td><h5>CLUB FAUGET</h5>VS<h5>BBT</h5> </td>
+                                    <td><h5>BULLERS</h5>VS<h5>NUGETS</h5> </td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-secondary text-white align-middle">3.00pm - 4.00pm</th>
+                                    <td></td>
+                                    <td> </td>
+                                    <td></td>
+                                    <td><h5>IBIME BLANCO</h5>VS<h5>ZORROS BLANCOS</h5> </td>
+                                    <td><h5>IBIME BLANCO</h5>VS<h5>ORLANDO</h5></td>
+                                    <td><h5> </h5> </td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div id="class" class="container tab-pane fade p-0">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-lg m-0">
+                            <thead class="bg-secondary text-white text-center">
+                                <tr>
+                                <th>HORARIO</th>
+                                    <th>LUNES </th>
+                                    <th>MARTES</th>
+                                    <th>MIERCOLES</th>
+                                    <th>JUEVES </th>
+                                    <th>VIERNES</th>
+                                    <th>SABADO</th>
+                                    <th>DOMINGO</th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-center">
+                                <tr>
+                                    <th class="bg-secondary text-white align-middle">8.00 am - 9.00am</th>
+                                    <td><h5>IBIME</h5>VS<h5>AZTKS</h5></td>
+                                    <td></td>
+                                    <td><h5>OSOS</h5>VS <h5>KAYUMARI</h5></td>
+                                    <td></td>
+                                    <td><h5>KAYUMARI</h5>VS<h5>ZORROS BLANCOS</h5></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-secondary text-white align-middle">10.00am - 11.00am</th>
+                                    <td></td>
+                                    <td><h5>ONIX</h5>VS<h5>OSOS</h5></td>
+                                    <td></td>
+                                    <td><h5></h5></td>
+                                    <td><h5>ZORROS BLANCOS</h5>VS<h5>SEVEN KINGS</h5></td>
+                                    <td><h5></h5></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <th class="bg-secondary text-white align-middle">1.00pm - 2.00pm</th>
+                                    <td><h5>AZTKS</h5>VS <h5>ONIX</h5> </td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    <td></td>
+                                    <td><h5>BULLERS</h5>VS<h5>NUGETS</h5> </td>
                                 </tr>
                                 <tr>
                                     <th class="bg-secondary text-white align-middle">3.00pm - 4.00pm</th>
@@ -326,9 +401,72 @@
                                     <td><h5></h5> </td>
                                     <td></td>
                                     <td><h5></h5> </td>
-                                    <td><h5>LOS DRAGONES</h5>VS<h5>BSS</h5></td>
+                                    <td><h5>SEVEN KINGS</h5>VS<h5>BULLERS</h5></td>
                                     <td><h5> </h5> </td>
                                     <td></td>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div id="class-blanco" class="container tab-pane fade p-0">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-lg m-0">
+                            <thead class="bg-secondary text-white text-center">
+                                <tr>
+                                <th>HORARIO</th>
+                                    <th>LUNES </th>
+                                    <th>MARTES</th>
+                                    <th>MIERCOLES</th>
+                                    <th>JUEVES </th>
+                                    <th>VIERNES </th>
+                                    <th>SABADO </th>
+                                    <th>DOMINGO </th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-center">
+                                <tr>
+                                    <th class="bg-secondary text-white align-middle">8.00 am - 9.00am</th>
+                                    <td></td>
+                                    <td></td>                                  
+                                    <td></td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th class="bg-secondary text-white align-middle">10.00am - 11.00am</th>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td><h5></h5></td>
+                                    <td></td>
+                                    <td><h5></h5></td>
+                                    <td></td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th class="bg-secondary text-white align-middle">1.00pm - 2.00pm</th>
+                                    <td></td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    <td></td>
+                                    <td> </td>
+                                    
+                                </tr>
+                                <tr>
+                                    <td><h5></h5> </td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    <td><h5> </h5> </td>
+                                    <td></td>
+                                    <td><h5></h5> </td>
+                                    
                                 </tr>
                             </tbody>
                         </table>
@@ -339,7 +477,430 @@
     </div> <br> <br>
     <!-- Class Timetable End -->
     
+    <div class="container gym-feature py-5">
+        <div class="d-flex flex-column text-center mb-5">
+        <h4 class="text-primary font-weight-bold">MICRO (MIXTO)</h4>
+            <h4 class="display-4 font-weight-bold">TABLA DE POSICIONES</h4><br><br>
 
+            <table class="table caption-top">
+                    <caption style = "color:hsla(0,100%,50%,1);">CLASIFICACIONES</caption>
+                    <thead>
+                        <tr>
+                        <th scope="col">#</th>    
+                        <th scope="col">EQUIPOS</th>
+                        <th scope="col">PJ</th>
+                        <th scope="col">PG</th>
+                        <th scope="col">PP</th>
+                        <th scope="col">PAF</th>
+                        <th scope="col">PEC</th>
+                        <th scope="col">DIF</th>
+                        <th scope="col">PTS</th>
+                        </tr>
+                    </thead>
+                        <tbody>
+                            <tr>
+                            <th scope="row">1</th>
+                            <td>IBIME</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">2</th>
+                            <td>AZTKS V.</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">3</th>
+                            <td>AZTKS M.</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">4</th>
+                            <td>KAUYURAMI</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">5</th>
+                            <td>BULLERS</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                        </tbody>
+            </table>
+        </div>
+        <div class="container gym-feature py-5">
+        <div class="d-flex flex-column text-center mb-5">
+        <h4 class="text-primary font-weight-bold">MINI (VARONIL)</h4>
+            <h4 class="display-4 font-weight-bold">TABLA DE POSICIONES</h4><br><br>
+
+            <table class="table caption-top">
+            <caption style = "color:hsla(0,100%,50%,1);">CLASIFICACIONES</caption>                    <thead>
+                        <tr>
+                        <th scope="col">#</th>    
+                        <th scope="col">EQUIPOS</th>
+                        <th scope="col">PJ</th>
+                        <th scope="col">PG</th>
+                        <th scope="col">PP</th>
+                        <th scope="col">PAF</th>
+                        <th scope="col">PEC</th>
+                        <th scope="col">DIF</th>
+                        <th scope="col">PTS</th>
+                        </tr>
+                    </thead>
+                        <tbody>
+                            <tr>
+                            <th scope="row">1</th>
+                            <td>IBIME</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">2</th>
+                            <td>AZTKS A</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">3</th>
+                            <td>AZTEKS B</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">4</th>
+                            <td>AGUILAS EH</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            
+                        </tbody>
+            </table>
+        </div>
+
+        <div class="container gym-feature py-5">
+        <div class="d-flex flex-column text-center mb-5">
+        <h4 class="text-primary font-weight-bold">PASARELA (VARONIL)</h4>
+            <h4 class="display-4 font-weight-bold">TABLA DE POSICIONES</h4><br><br>
+
+            <table class="table caption-top">
+            <caption style = "color:hsla(0,100%,50%,1);">CLASIFICACIONES</caption>                    <thead>
+                        <tr>
+                        <th scope="col">#</th>    
+                        <th scope="col">EQUIPOS</th>
+                        <th scope="col">PJ</th>
+                        <th scope="col">PG</th>
+                        <th scope="col">PP</th>
+                        <th scope="col">PAF</th>
+                        <th scope="col">PEC</th>
+                        <th scope="col">DIF</th>
+                        <th scope="col">PTS</th>
+                        </tr>
+                    </thead>
+                        <tbody>
+                            <tr>
+                            <th scope="row">1</th>
+                            <td>IBIME ROJO</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">2</th>
+                            <td>CASA BLANCA</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">3</th>
+                            <td>ORLANDO</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">4</th>
+                            <td>IBIME AZUL</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            
+                        </tbody>
+            </table>
+        </div>
+        <div class="container gym-feature py-5">
+        <div class="d-flex flex-column text-center mb-5">
+        <h4 class="text-primary font-weight-bold">CADETE (VARONIL)</h4>
+            <h4 class="display-4 font-weight-bold">TABLA DE POSICIONES</h4><br><br>
+
+            <table class="table caption-top">
+            <caption style = "color:hsla(0,100%,50%,1);">CLASIFICACIONES</caption>                    <thead>
+                        <tr>
+                        <th scope="col">#</th>    
+                        <th scope="col">EQUIPOS</th>
+                        <th scope="col">PJ</th>
+                        <th scope="col">PG</th>
+                        <th scope="col">PP</th>
+                        <th scope="col">PAF</th>
+                        <th scope="col">PEC</th>
+                        <th scope="col">DIF</th>
+                        <th scope="col">PTS</th>
+                        </tr>
+                    </thead>
+                        <tbody>
+                            <tr>
+                            <th scope="row">1</th>
+                            <td>IBIME AZUL</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">2</th>
+                            <td>IBIME BLANCO</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">3</th>
+                            <td>AZTKS A</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">4</th>
+                            <td>AZTKS B</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">5</th>
+                            <td>ZORROS BLANCO</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">6</th>
+                            <td>KATUMARI</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">7</th>
+                            <td>ORLANDO</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                        </tbody>
+            </table>
+        </div>
+        <div class="container gym-feature py-5">
+        <div class="d-flex flex-column text-center mb-5">
+        <h4 class="text-primary font-weight-bold">JUVENIL (VARONIL)</h4>
+            <h4 class="display-4 font-weight-bold">TABLA DE POSICIONES</h4><br><br>
+
+            <table class="table caption-top">
+            <caption style = "color:hsla(0,100%,50%,1);">CLASIFICACIONES</caption>                    <thead>
+                        <tr>
+                        <th scope="col">#</th>    
+                        <th scope="col">EQUIPOS</th>
+                        <th scope="col">PJ</th>
+                        <th scope="col">PG</th>
+                        <th scope="col">PP</th>
+                        <th scope="col">PAF</th>
+                        <th scope="col">PEC</th>
+                        <th scope="col">DIF</th>
+                        <th scope="col">PTS</th>
+                        </tr>
+                    </thead>
+                        <tbody>
+                            <tr>
+                            <th scope="row">1</th>
+                            <td>IBIME</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">2</th>
+                            <td>AZTKS</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <th scope="row">3</th>
+                            <td>ONIX</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">4</th>
+                            <td>OSOS</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">5</th>
+                            <td>KAYUMARI</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">6</th>
+                            <td>ZORROS BLANCOS</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">7</th>
+                            <td>SEVEN KINGS</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">8</th>
+                            <td>BULLERS</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                            <th scope="row">9</th>
+                            <td>NUGGETS</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                            </tr>
+                        </tbody>
+            </table>
+        </div>
        <!-- Blog Start -->
        
     <!-- Blog End -->
